@@ -2,3 +2,5 @@ FLASK
 scikit-learn
 joblib
 gunicorn
+pandas
+numpy
